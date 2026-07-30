@@ -1,7 +1,7 @@
 # 🎮 BIMO
 > Unity｜2D 像素风平台冒险游戏
 
-> 游戏演示链接：https://www.bilibili.com/video/BV1dW3B68EJo/
+> 游戏演示链接：https://www.bilibili.com/video/BV1K23b69ETL?vd_source=e6f10fdf74fcef359acc9a878c171c1a
 
 
 ## 📖 项目简介 （Project Overview)
